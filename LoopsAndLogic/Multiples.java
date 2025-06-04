@@ -1,4 +1,3 @@
-import java.util.Arrays;
 import java.util.List;
 /*
 Write a function that takes a list (or array) of integers and a number n.

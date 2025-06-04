@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e121cb6a-1034-4dd0-832f-1bef9c01fd49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/StringsAndLoops/vowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunctionsWithLoops/SumOfEvenNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoopsAndLogic/multiples.java" beforeDir="false" afterPath="$PROJECT_DIR$/LoopsAndLogic/Multiples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoopsAndLogic/multiplesAgain.java" beforeDir="false" afterPath="$PROJECT_DIR$/LoopsAndLogic/MultiplesAgain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoopsAndLogic/multiplesList.java" beforeDir="false" afterPath="$PROJECT_DIR$/LoopsAndLogic/MultiplesList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringsAndLoops/palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/StringsAndLoops/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringsAndLoops/reversedString.java" beforeDir="false" afterPath="$PROJECT_DIR$/StringsAndLoops/ReversedString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringsAndLoops/vowels.java" beforeDir="false" afterPath="$PROJECT_DIR$/StringsAndLoops/Vowels.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
